@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e545fa28-d82f-43f2-b8ef-ef07501bb1b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../isp-lab-11-2-2023-main/src/main/java/isp/lab10/exercise1/ATC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isp-lab-11-2-2023-main/src/main/java/isp/lab10/exercise1/Aircraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isp-lab-11-2-2023-main/src/main/java/isp/lab10/exercise1/AtcCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isp-lab-11-2-2023-main/src/main/java/isp/lab10/exercise1/AtcMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isp-lab-2-2023/src/main/java/isp/lab2/Exercise6WordGuess/Exercise6WordGuess.java" beforeDir="false" afterPath="$PROJECT_DIR$/../isp-lab-2-2023/src/main/java/isp/lab2/Exercise6WordGuess/Exercise6WordGuess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isp-lab-5-2023-main/src/main/java/isp/lab4/exercise2/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../isp-lab-5-2023-main/src/main/java/isp/lab4/exercise2/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isp-lab-5-2023-main/src/main/java/isp/lab4/exercise2/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../isp-lab-5-2023-main/src/main/java/isp/lab4/exercise2/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isp-lab-5-2023-main/src/main/java/isp/lab4/exercise2/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../isp-lab-5-2023-main/src/main/java/isp/lab4/exercise2/SmartPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isp-lab-5-2023-main/src/main/java/isp/lab4/exercise2/SmartWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../isp-lab-5-2023-main/src/main/java/isp/lab4/exercise2/SmartWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isp-lab-5-2023-main/src/main/java/isp/lab4/exercise3/MonitoringService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../isp-lab-5-2023-main/src/main/java/isp/lab4/exercise3/MonitoringService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MwpKAPvjbpUpo8d6QJqorMDiZD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/david/OneDrive/Desktop/New folder/an2/sem2/ISP/isp-labs-2023-repo-david-dana-dorina-30122/isp-lab-4-2023"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="isp.lab3.exercise5" />
+      <recent name="isp.lab3.exercise4" />
+      <recent name="isp.lab3.exercise3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.VendingMachine">
+    <configuration name="MyPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isp.lab3.exercise4.MyPoint" />
+      <module name="isp-lab-3-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="isp.lab3.exercise4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isp.lab3.exercise5.VendingMachine" />
+      <module name="isp-lab-3-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="isp.lab3.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyPointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="isp-lab-3-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="isp.lab3.exercise4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="isp.lab3.exercise4" />
+      <option name="MAIN_CLASS_NAME" value="isp.lab3.exercise4.MyPointTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyPointTest.disttest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="isp-lab-3-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="isp.lab3.exercise4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="isp.lab3.exercise4" />
+      <option name="MAIN_CLASS_NAME" value="isp.lab3.exercise4.MyPointTest" />
+      <option name="METHOD_NAME" value="disttest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachineTest.displayProductsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="isp-lab-3-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="isp.lab3.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="isp.lab3.exercise5" />
+      <option name="MAIN_CLASS_NAME" value="isp.lab3.exercise5.VendingMachineTest" />
+      <option name="METHOD_NAME" value="displayProductsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VendingMachine" />
+        <item itemvalue="JUnit.VendingMachineTest.displayProductsTest" />
+        <item itemvalue="JUnit.MyPointTest.disttest" />
+        <item itemvalue="Application.MyPoint" />
+        <item itemvalue="JUnit.MyPointTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e545fa28-d82f-43f2-b8ef-ef07501bb1b3" name="Changes" comment="" />
+      <created>1678688433050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678688433050</updated>
+    </task>
+    <servers />
+  </component>
+</project>
