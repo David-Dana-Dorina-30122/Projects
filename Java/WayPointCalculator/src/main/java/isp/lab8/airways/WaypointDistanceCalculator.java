@@ -2,13 +2,9 @@ package isp.lab8.airways;
 
 import java.lang.Math;
 
-/**
- * Example how to calculate distance between 2 geographical points. Reuse part of this code in your application.
- */
 public class WaypointDistanceCalculator {
 
    /* public static void main(String[] args) {
-        // Example coordinates for two waypoints
         //Cluj-Napoca
         double lat1 = 46.7712;
         double lon1 = 23.6236;
@@ -23,7 +19,6 @@ public class WaypointDistanceCalculator {
         System.out.println("The distance between the two waypoints is: " + distance + " kilometers");
     }
 */
-    // Method to calculate the distance between two waypoints using the haversine formula
     public static double calculateDistance(double lat1, double lon1, double lat2, double lon2) {
         int earthRadius = 6371; // Radius of the Earth in kilometers
         double dLat = Math.toRadians(lat2 - lat1);

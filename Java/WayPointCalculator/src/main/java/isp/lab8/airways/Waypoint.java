@@ -5,9 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/**
- * Example waypoint class which can be extended to be used in implementation of the exercise. Add constructor, getters, setters, etc.
- */
+
 public class Waypoint implements Serializable {
     private int index;
     private String name;
